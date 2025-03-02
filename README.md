@@ -1,5 +1,5 @@
-# crispy-journey
-An Efficient In-Campus Shuttle Bus Operation Model. Created by taking a certain area as a whole university campus.
+# An Efficient In-Campus Shuttle Bus Operation Model
+This model is developed by taking a certain area as a whole university campus.
 
 
 Tool used to create the map: "geojson.io" powered by mapbox.
