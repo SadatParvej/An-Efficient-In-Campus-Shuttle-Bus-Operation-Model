@@ -12,3 +12,5 @@ Instructions for setting up the model:
 3. Download the file named "Shuttle_Bus_Service.ipynb" and open it with google colab book.
 4. Mount the google drive in the google colab book where you uploaded the folder.(Mentioned in step 2)
 5. Click "Run all" from the "Runtime" panel.You're all set.
+
+Also, read the 'README.txt'. It's important for setting up the simulation.
